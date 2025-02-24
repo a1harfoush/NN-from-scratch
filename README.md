@@ -90,6 +90,8 @@ After training, you will see:
   The script will output the overall test accuracy (e.g., `Test accuracy: 0.76`). This provides a quantitative measure of the network's performance.
 
 - **Visualization:**
+
+  
      ![download](https://github.com/user-attachments/assets/af60cf50-36e8-4122-b79d-aa10bf11e059)
   - A **Training Loss Plot** that shows how the loss decreases over epochs.
 
