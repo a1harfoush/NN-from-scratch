@@ -59,7 +59,7 @@ Clone the repository and navigate to the project directory:
 
 ```bash
 git clone https://github.com/a1harfoush/NN-from-scratch.git
-cd skibidi-network
+cd NN-from-scratch
 ```
 
 Install the required dependencies:
