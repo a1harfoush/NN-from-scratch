@@ -18,8 +18,8 @@ y_train = to_categorical(y_train, 10)       # One-hot encode labels
 y_test = to_categorical(y_test, 10)
 
 # Network architecture parameters
-input_dim = 784          # 28x28 pixels per image
-hidden_dim = 64          # Let's keep it spicy with 64 hidden neurons
+input_dim = 784          
+hidden_dim = 64         
 output_dim = 10          # 10 output neurons for digits 0-9
 
 # Initialize weights and biases (with our signature flair)
