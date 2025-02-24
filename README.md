@@ -58,7 +58,7 @@ The neural network in this repository features a straightforward architecture wi
 Clone the repository and navigate to the project directory:
 
 ```bash
-git clone https://github.com/yourusername/skibidi-network.git
+git clone https://github.com/a1harfoush/NN-from-scratch.git
 cd skibidi-network
 ```
 
@@ -73,7 +73,7 @@ pip install numpy matplotlib tensorflow
 Run the main script to train the neural network and visualize the results:
 
 ```bash
-python skibidi_network.py
+python nn_mnist.py
 ```
 
 Upon execution, the script will:
