@@ -91,12 +91,14 @@ After training, you will see:
 
 - **Visualization:**
 
+  - A **Training Loss Plot** that shows how the loss decreases over epochs.
   
      ![download](https://github.com/user-attachments/assets/af60cf50-36e8-4122-b79d-aa10bf11e059)
-  - A **Training Loss Plot** that shows how the loss decreases over epochs.
 
-    ![download](https://github.com/user-attachments/assets/ae3ff6d0-d5ed-4249-8ebb-2af21573a0cc)
   - **Sample Predictions:** A visual gallery of selected test images alongside their true and predicted labels.
+ 
+     ![download](https://github.com/user-attachments/assets/ae3ff6d0-d5ed-4249-8ebb-2af21573a0cc)
+
 
 Feel free to update this section with your own results and screenshots once you've run the network!
 
