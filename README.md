@@ -1,3 +1,4 @@
+
 # Skibidi Network: A From-Scratch Neural Network for MNIST Digit Recognition 🤖✨
 
 This repository presents an implementation of a simple neural network built entirely from scratch using Python and NumPy. The network is designed to perform classification on the MNIST dataset, which consists of 28×28 pixel grayscale images of handwritten digits.
@@ -75,7 +76,27 @@ Run the main script to train the neural network and visualize the results:
 python skibidi_network.py
 ```
 
-Upon execution, the script will train the network on the MNIST dataset, display the training progress, plot the training loss over epochs 📈, and show a selection of test images with their predicted and true labels.
+Upon execution, the script will:
+- Train the network on the MNIST dataset.
+- Output the training progress and final test accuracy.
+- Plot the training loss over epochs 📈.
+- Display a selection of test images with their predicted and true labels.
+
+## Results & Visualization
+
+After training, you will see:
+
+- **Test Accuracy:**  
+  The script will output the overall test accuracy (e.g., `Test accuracy: 0.76`). This provides a quantitative measure of the network's performance.
+
+- **Visualization:**
+     ![download](https://github.com/user-attachments/assets/af60cf50-36e8-4122-b79d-aa10bf11e059)
+  - A **Training Loss Plot** that shows how the loss decreases over epochs.
+
+    ![download](https://github.com/user-attachments/assets/ae3ff6d0-d5ed-4249-8ebb-2af21573a0cc)
+  - **Sample Predictions:** A visual gallery of selected test images alongside their true and predicted labels.
+
+Feel free to update this section with your own results and screenshots once you've run the network!
 
 ## Acknowledgements
 
