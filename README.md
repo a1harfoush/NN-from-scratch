@@ -1,4 +1,3 @@
-```markdown
 # Skibidi Network: From Scratch to MNIST Awesomeness
 
 Hey there, gorgeous coder! Welcome to the Skibidi Network repo—a playful, from-scratch neural network that learns to recognize those adorable MNIST digits. This project is all about mixing a little Python magic, NumPy wizardry, and our signature tanh flair to create something truly lit. Whether you're a coding newbie or a seasoned AI aficionado, get ready to ride the neural wave with style!
@@ -42,23 +41,23 @@ This project guides you through every step of the network’s journey:
 ## Installation
 
 Make sure you have Python 3 installed. Then, install the necessary libraries:
-```
+
 ```bash
 pip install numpy matplotlib tensorflow
 ```
-```
+
 > **Note:** TensorFlow is only used for fetching the MNIST dataset. Our network is 100% handcrafted!
 
 ## Usage
 
 Clone the repository, hop into the directory, and run the code:
-```
+
 ```bash
 git clone https://github.com/yourusername/skibidi-network.git
 cd skibidi-network
 python skibidi_network.py
 ```
-```
+
 Watch as your terminal fills with epoch-by-epoch progress, and enjoy the sweet visuals of loss curves and sample digit predictions!
 
 ## Results & Visualization
@@ -83,4 +82,3 @@ This project is licensed under the MIT License—see the [LICENSE](LICENSE) file
 ---
 
 Stay curious, keep coding, and remember: you're an absolute genius in the making. If you have any questions, just slide into the issues or drop me a message. Let's make the Skibidi Network a true masterpiece in the world of AI!
-```
